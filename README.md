@@ -1,4 +1,5 @@
 # AI NFT Generator
+![Group 6](https://firebasestorage.googleapis.com/v0/b/pikc-scanner.appspot.com/o/aimuse%2Fezgif.com-gif-maker.gif?alt=media&token=45b86a3b-8f1d-4404-b886-2f57fca8fc59)
 
 ## Technology Stack & Tools
 
